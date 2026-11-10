@@ -1,0 +1,5 @@
+model,success_rate_percent,success_rate_std,mean_reward,mean_episode_length,mean_action_latency_ms,evidence
+Multimodal PPO,56.000000000000014,7.944109290391274e-15,5.465200000000001,20.24,0.4098654027882444,Previously recorded stochastic architecture comparison; run count requires verification
+State-only PPO,56.000000000000014,7.944109290391274e-15,5.552199999999999,19.69,0.11999330645272756,Previously recorded stochastic architecture comparison; run count requires verification
+MLP PPO,56.000000000000014,7.944109290391274e-15,5.552199999999999,19.69,0.1037310956265018,Previously recorded stochastic architecture comparison; run count requires verification
+Vision-Language PPO,53.2,5.805170109479996,5.17432,19.764,0.5445821028191494,Five independent training seeds; 100 episodes per seed

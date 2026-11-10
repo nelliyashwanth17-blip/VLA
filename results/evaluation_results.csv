@@ -1,0 +1,11 @@
+policy,metric,value
+Rule-based baseline,success_rate_percent,100.0
+Rule-based baseline,mean_reward,10.5778
+Rule-based baseline,mean_episode_length,3.21
+Rule-based baseline,mean_action_latency_ms,0.026913287409659578
+Rule-based baseline,p95_action_latency_ms,0.028125010430812836
+PPO policy,success_rate_percent,16.0
+PPO policy,mean_reward,0.9971999999999998
+PPO policy,mean_episode_length,25.64
+PPO policy,mean_action_latency_ms,0.3993607465751315
+PPO policy,p95_action_latency_ms,0.4258670378476381

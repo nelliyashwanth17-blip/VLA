@@ -1,0 +1,6 @@
+model,success_rate_percent,mean_reward,mean_episode_length,mean_action_latency_ms,evidence,success_rate_std,mean_reward_std
+Rule-based baseline,100.0,10.5778,3.21,0.026913287409659578,Previously recorded 100-episode evaluation,,
+Multimodal PPO,16.0,0.9971999999999998,25.64,0.3993607465751315,Previously recorded 100-episode evaluation,,
+State-only PPO,15.0,1.0575999999999997,25.82,0.11098349190895654,Previously recorded 100-episode evaluation,,
+MLP PPO,15.0,1.0575999999999997,25.82,0.09250983893063344,Previously recorded 100-episode evaluation,,
+Vision-Language PPO,21.2,1.6170399999999998,24.128,0.5276946967099017,Five independent training seeds; 100 episodes per seed,3.8340579025361627,0.46925473679015733

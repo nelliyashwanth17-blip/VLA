@@ -1,0 +1,7 @@
+# Recommended: Python 3.11
+gymnasium>=1.0,<2.0
+stable-baselines3>=2.7,<3.0
+torch>=2.8
+numpy>=1.26
+pillow>=10.0
+matplotlib>=3.8
